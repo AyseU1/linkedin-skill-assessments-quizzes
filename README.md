@@ -1,4 +1,4 @@
-TOTALLY CHANGED
+TOTALLY CHANGED son degisiklik
 
 <a id="top-page"></a>
 [![Owner](https://img.shields.io/badge/owner-ebazhanov-blue)](https://github.com/Ebazhanov)
